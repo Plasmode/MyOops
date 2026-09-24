@@ -1,2 +1,3 @@
-# MyOops
-My mistakes over the years
+# My mistakes over the years
+
+![DIP64](https://github.com/Plasmode/RIZ180/blob/main/Rev0/RIZ180_rev0_screw_up_shrink_DIP64_footprint.jpg)
